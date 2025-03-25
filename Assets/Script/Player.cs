@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
+    public int Chaves = 0;
     public float movi;
     Rigidbody2D rig;
     // Start is called before the first frame update
@@ -17,4 +18,20 @@ public class Player : MonoBehaviour
     {
         rig.velocity = new Vector3( Input.GetAxisRaw("Horizontal")* movi, Input.GetAxisRaw("Vertical")* movi,0f);
     }
+
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if(collision.gameObject.tag == "chave")
+        {
+            Chaves ++;
+        }
+    }
+
+
+
+
+
+
+
 }

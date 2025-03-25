@@ -5,7 +5,8 @@ using UnityEngine;
 [RequireComponent(typeof(BoxCollider2D))]
 public class ControllerLabirinto : MonoBehaviour
 {
-   
+    [SerializeField]
+    public Animator anim;
     public BoxCollider2D box;
     // Start is called before the first frame update
     void Awake()
@@ -20,15 +21,28 @@ public class ControllerLabirinto : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             {
-                box.isTrigger = true;
+                abrir();
             }
         }
     }
 
 
+    public void abrir()
+    {
+        anim.SetBool("fechar",false);
+        anim.SetBool("Abrir",true);
+    }
+    
+    public void fechar()
+    {
+        anim.SetBool("Abrir",false);
+        anim.SetBool("fechar",true);
+        box.isTrigger = false;
+    }
 
+    void Atravessar()
+    {
+        box.isTrigger = true;
+    }
 
-
-
-
-}
+}      
