@@ -11,7 +11,6 @@ public class ControllerLabirinto : MonoBehaviour
     // Start is called before the first frame update
     void Awake()
     {
-        
         box = GetComponent<BoxCollider2D>();
     }
 

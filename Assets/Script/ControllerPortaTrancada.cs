@@ -5,12 +5,16 @@ using UnityEngine;
 [RequireComponent(typeof(BoxCollider2D))]
 public class ControllerPortaTrancada : MonoBehaviour
 {
+    [SerializeField]
+    public Animator anim;
+    public BoxCollider2D box;
     public ControllerLabirinto Labi;
     public Player player;
+    public bool Aberta;
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
-        
+        box = GetComponent<BoxCollider2D>();
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
@@ -19,8 +23,22 @@ public class ControllerPortaTrancada : MonoBehaviour
         {
             if(player.Chaves > 0)
             {
-                Labi.abrir();
+               abrir();
             }
         }
     }
+
+
+
+    public void abrir()
+    {
+        player.Chaves --;
+        anim.SetBool("FicarAberta",true);
+    }
+
+    void Atravessar()
+    {
+        box.isTrigger = true;
+    }
+
 }

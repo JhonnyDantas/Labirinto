@@ -25,13 +25,9 @@ public class Player : MonoBehaviour
         if(collision.gameObject.tag == "chave")
         {
             Chaves ++;
+            Destroy(collision.gameObject);
+        
         }
+
     }
-
-
-
-
-
-
-
 }
