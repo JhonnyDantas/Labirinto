@@ -1,0 +1,1068 @@
+fileFormatVersion: 2
+guid: dcfba82e98699f14293339f1d0776a07
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 199
+        width: 5
+        height: 42
+      alignment: 9
+      pivot: {x: 0.4999992, y: 0.979478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbbb29468afdb6459b57d5dbd154675
+      internalID: -1999951958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 199
+        width: 8
+        height: 42
+      alignment: 9
+      pivot: {x: 0.7208319, y: 0.9739914}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12730ae9f0012d4e87922e888bf06ad
+      internalID: -1832806040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 199
+        width: 14
+        height: 42
+      alignment: 9
+      pivot: {x: 0.8566262, y: 0.97582024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c127f6e7291cd478e77de8fed3eb0e
+      internalID: 1309879508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 200
+        width: 18
+        height: 41
+      alignment: 9
+      pivot: {x: 0.91393024, y: 0.97760457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415fffbf9fcd24b4493d9db58c0c41a6
+      internalID: 465389601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_4
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 202
+        width: 24
+        height: 39
+      alignment: 9
+      pivot: {x: 0.93779564, y: 0.96240234}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f93503db4c2204c9f6cfa917762ce9
+      internalID: 921255111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 204
+        width: 26
+        height: 37
+      alignment: 9
+      pivot: {x: 0.9316054, y: 0.96489656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e129b218d3231894eb90c136f95a53a5
+      internalID: 270009170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 207
+        width: 29
+        height: 34
+      alignment: 9
+      pivot: {x: 0.946489, y: 0.9794774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabc6d6e61e672e47bfbf8761c8c2122
+      internalID: -1587255211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 216
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: 0.9490101, y: 0.9535816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b97a139ce48494a8ed63abbed278aa
+      internalID: -1979589268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 218
+        width: 32
+        height: 23
+      alignment: 9
+      pivot: {x: 0.9383507, y: 0.94663805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f430009271a7b4b9a6e7dceddc136e
+      internalID: 1293021267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 222
+        width: 32
+        height: 19
+      alignment: 9
+      pivot: {x: 0.95520973, y: 0.9397238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a7563c7acdcf9428cebda764c650a6
+      internalID: 346399428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 135
+        width: 5
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3900e9a6497797a498bec42f6d03f794
+      internalID: -1913543840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 135
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 506f78144b6771840bad8a51da567fb4
+      internalID: -356651808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 135
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26776b3bd2705c6409fadff69538e0c0
+      internalID: -1352232602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 136
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd912590c3d984a49b407e666e0772bf
+      internalID: 1049255219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 139
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c9e4d6daf78b343b564cdbf8cbbf12
+      internalID: 1779806611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_15
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 142
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ed2d27b02782146b327557dcf9714b
+      internalID: 1277583764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 148
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea2c31e99b10ff40bdab6c29c232ad4
+      internalID: 706204051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 152
+        width: 31
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cef5a281b7a60941988a9f5591b9fcd
+      internalID: 583405058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 154
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e5191f0dc10a642802770fb94da278
+      internalID: 2046346292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 158
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd907d530e61fab4a813c44cc8185bc9
+      internalID: -550487255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 5
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d18a88ff4b7a5a4b986d6cf228a2c3e
+      internalID: 355384993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 79
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542e9ac8ca6051c468356d1ffcfeaa6c
+      internalID: 1740861132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 79
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae15a1f473dd92140968b690c25e8bec
+      internalID: -412362655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_23
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 79
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d43a773e5822846bddd98878cf6c26
+      internalID: 1256740541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_24
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 79
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e90fbbfd6bc5d74cb62c959604a3e2d
+      internalID: -2078890230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_25
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 79
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e42e1b3e00d0a42bdc22527f73129c
+      internalID: 1428721591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 79
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b448a5aeab2d19f4ebe441e33d608c8d
+      internalID: -218822832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 79
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60595c924ece2084d8420b53fc4a7dae
+      internalID: 1558073644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 79
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6f2f22adcebee469086b04072dcefe
+      internalID: -255312384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 77
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c2519640cdf4d4eaecfdb1d130fa0f
+      internalID: 2073791157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 15
+        width: 5
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269b74d929fc1a1459839f51103c059e
+      internalID: -1186097736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_31
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 15
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec8a1563b6417c43bb24eda2f6da689
+      internalID: -2056775376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_32
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 15
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09178652fca9dcb418ee467a68eeaa27
+      internalID: 222876524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_33
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 15
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72415cd77ce0e8742b781af30c488037
+      internalID: 3859174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 15
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71662eb77d3ee54ea8d5f0f881babfd
+      internalID: -576280102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 15
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d53cac6adefc4f4f888458e45c0314a
+      internalID: 587707930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_36
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 15
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f080d1ebcfe7c940b14ab40ca6e384c
+      internalID: 1784367962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_37
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 15
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c05d7840f44b384c95333091630ed9e
+      internalID: -670301898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf68e0a8e3dfdec4da5c19a0b3135c22
+      internalID: -1429231104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 13
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091945f6ba52478488ae2cedb167d768
+      internalID: -1256534576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprite.portaslabirinto_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 215
+        width: 3
+        height: 1
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd684ce353b331a4ca00f3005af4302a
+      internalID: 32979761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sprite.portaslabirinto_0: -1999951958
+      sprite.portaslabirinto_1: -1832806040
+      sprite.portaslabirinto_10: -1913543840
+      sprite.portaslabirinto_11: -356651808
+      sprite.portaslabirinto_12: -1352232602
+      sprite.portaslabirinto_13: 1049255219
+      sprite.portaslabirinto_14: 1779806611
+      sprite.portaslabirinto_15: 1277583764
+      sprite.portaslabirinto_16: 706204051
+      sprite.portaslabirinto_17: 583405058
+      sprite.portaslabirinto_18: 2046346292
+      sprite.portaslabirinto_19: -550487255
+      sprite.portaslabirinto_2: 1309879508
+      sprite.portaslabirinto_20: 355384993
+      sprite.portaslabirinto_21: 1740861132
+      sprite.portaslabirinto_22: -412362655
+      sprite.portaslabirinto_23: 1256740541
+      sprite.portaslabirinto_24: -2078890230
+      sprite.portaslabirinto_25: 1428721591
+      sprite.portaslabirinto_26: -218822832
+      sprite.portaslabirinto_27: 1558073644
+      sprite.portaslabirinto_28: -255312384
+      sprite.portaslabirinto_29: 2073791157
+      sprite.portaslabirinto_3: 465389601
+      sprite.portaslabirinto_30: -1186097736
+      sprite.portaslabirinto_31: -2056775376
+      sprite.portaslabirinto_32: 222876524
+      sprite.portaslabirinto_33: 3859174
+      sprite.portaslabirinto_34: -576280102
+      sprite.portaslabirinto_35: 587707930
+      sprite.portaslabirinto_36: 1784367962
+      sprite.portaslabirinto_37: -670301898
+      sprite.portaslabirinto_38: -1429231104
+      sprite.portaslabirinto_39: -1256534576
+      sprite.portaslabirinto_4: 921255111
+      sprite.portaslabirinto_40: 32979761
+      sprite.portaslabirinto_5: 270009170
+      sprite.portaslabirinto_6: -1587255211
+      sprite.portaslabirinto_7: -1979589268
+      sprite.portaslabirinto_8: 1293021267
+      sprite.portaslabirinto_9: 346399428
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
